@@ -1,2 +1,1 @@
-# Mi primero proyecto con Git
-Este cambio fue hecho en la rama nueva-funcionalidad
+Este cambio fue hecho en la rama NUEVA-FUNCIONALIDAD con conflicto
